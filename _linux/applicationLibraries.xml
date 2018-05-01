@@ -172,11 +172,13 @@
     </library>
     <library name="byebug (v10.0.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
