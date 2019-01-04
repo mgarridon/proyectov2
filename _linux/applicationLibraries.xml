@@ -538,6 +538,16 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/cancancan-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.15.3, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.15.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.15.3/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.15.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.15.3/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v3.11.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-3.11.1/lib" />
@@ -552,6 +562,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/capybara-3.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="childprocess (v0.8.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/childprocess-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/childprocess-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="childprocess (v0.9.0, ruby-2.4.1-p111) [gem]">
@@ -678,6 +696,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/concurrent-ruby-1.1.4/ext" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.2, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/crass-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/crass-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="crass (v1.0.3, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/crass-1.0.3/lib" />
@@ -700,6 +726,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/csv-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="data-confirm-modal (v1.6.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.0/vendor" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.0/vendor" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.4.1-p111) [gem]">
@@ -730,6 +766,24 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.2.0/gemfiles" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.2.0/app" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.3.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/guides" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/gemfiles" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/guides" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/gemfiles" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/devise-4.3.0/lib" />
       </SOURCES>
     </library>
     <library name="devise (v4.5.0, ruby-2.4.1-p111) [gem]">
@@ -782,6 +836,14 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.1/benchmark" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="erubi (v1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/erubi-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/erubi-1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="erubi (v1.7.0, ruby-2.4.1-p111) [gem]">
@@ -934,6 +996,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
+    <library name="globalid (v0.4.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/globalid-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/globalid-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.4.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/globalid-0.4.1/lib" />
@@ -950,6 +1020,16 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/i18n-0.7.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.8.6, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/i18n-0.8.6/gemfiles" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/i18n-0.8.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/i18n-0.8.6/gemfiles" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/i18n-0.8.6/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v0.9.1, ruby-2.4.1-p111) [gem]">
@@ -1112,6 +1192,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.6, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mail-2.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mail-2.6.6/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.7.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mail-2.7.0/lib" />
@@ -1216,6 +1304,18 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.3/script" />
+      </SOURCES>
+    </library>
+    <library name="mini_mime (v0.1.4, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mini_mime-0.1.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mini_mime-0.1.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mini_mime-0.1.4/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mini_mime-0.1.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mini_mime-0.1.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/mini_mime-0.1.4/bench" />
       </SOURCES>
     </library>
     <library name="mini_mime (v1.0.0, ruby-2.4.1-p111) [gem]">
@@ -1646,6 +1746,18 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/psych-3.0.3/bin" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.0/data" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v3.0.3, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/public_suffix-3.0.3/data" />
@@ -1656,6 +1768,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/public_suffix-3.0.3/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/public_suffix-3.0.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/public_suffix-3.0.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.10.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/tools" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/tools" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.10.0/bin" />
       </SOURCES>
     </library>
     <library name="puma (v3.11.0, ruby-2.4.1-p111) [gem]">
@@ -1754,6 +1882,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.7.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rack-test-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rack-test-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.8.2, ruby-2.4.1-p111) [gem]">
@@ -1898,6 +2034,18 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-11.3.0/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-11.3.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-11.3.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.2.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.2.1/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.2.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.2.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.2.1/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.2.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rake-12.2.1/bin" />
       </SOURCES>
     </library>
     <library name="rake (v12.3.0, ruby-2.4.1-p111) [gem]">
@@ -2094,6 +2242,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.2.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/samples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/samples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rubyzip (v1.2.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/rubyzip-1.2.2/lib" />
@@ -2126,6 +2284,20 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.4.22/rails" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.4.22/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.4.22/bin" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.5.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/rails" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/extra" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/rails" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/sass-3.5.1/extra" />
       </SOURCES>
     </library>
     <library name="sass (v3.5.3, ruby-2.4.1-p111) [gem]">
@@ -2186,6 +2358,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/selenium-webdriver-3.141.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.6.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/selenium-webdriver-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/selenium-webdriver-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="simple_form (v4.1.0, ruby-2.4.1-p111) [gem]">
@@ -2450,6 +2630,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.3, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.4, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.4/lib" />
@@ -2498,6 +2686,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/warden-1.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="warden (v1.2.7, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/warden-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/warden-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="warden (v1.2.8, ruby-2.4.1-p111) [gem]">
@@ -2602,6 +2798,14 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v2.1.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xpath-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/xpath-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v3.2.0, ruby-2.4.1-p111) [gem]">
