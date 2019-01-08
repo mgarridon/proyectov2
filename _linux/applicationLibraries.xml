@@ -24,6 +24,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actioncable-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actioncable-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actioncable-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.2.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actioncable-5.2.1/lib" />
@@ -62,6 +70,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionmailer-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionmailer-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionmailer-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="actionmailer (v5.2.1, ruby-2.4.1-p111) [gem]">
@@ -104,6 +120,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionpack-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionpack-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionpack-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v5.2.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionpack-5.2.1/lib" />
@@ -142,6 +166,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionview-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionview-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/actionview-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.2.1, ruby-2.4.1-p111) [gem]">
@@ -184,6 +216,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activejob-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activejob-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activejob-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.2.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activejob-5.2.1/lib" />
@@ -224,6 +264,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activemodel-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activemodel-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activemodel-5.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.2.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activemodel-5.2.1/lib" />
@@ -262,6 +310,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activerecord-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activerecord-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activerecord-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.2.1, ruby-2.4.1-p111) [gem]">
@@ -330,6 +386,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activesupport-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activesupport-5.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/activesupport-5.1.6.1/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.2.1, ruby-2.4.1-p111) [gem]">
@@ -644,6 +708,16 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.15.3/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.18.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.18.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.18.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.18.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-2.18.0/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v3.11.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/capybara-3.11.1/lib" />
@@ -840,6 +914,16 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.0/vendor" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="data-confirm-modal (v1.6.2, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.2/vendor" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.2/vendor" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/data-confirm-modal-1.6.2/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.4.1-p111) [gem]">
@@ -2168,6 +2252,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-5.1.4" />
       </SOURCES>
     </library>
+    <library name="rails (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-5.1.6.1" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-5.1.6.1" />
+      </SOURCES>
+    </library>
     <library name="rails (v5.2.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-5.2.1" />
@@ -2244,6 +2336,16 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/railties-5.1.4/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/railties-5.1.4/exe" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.1.6.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/railties-5.1.6.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/railties-5.1.6.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/railties-5.1.6.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/railties-5.1.6.1/exe" />
       </SOURCES>
     </library>
     <library name="railties (v5.2.1, ruby-2.4.1-p111) [gem]">
