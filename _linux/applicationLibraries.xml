@@ -590,11 +590,13 @@
     </library>
     <library name="byebug (v9.0.6, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/byebug-9.0.6/bin" />
@@ -1720,6 +1722,7 @@
     </library>
     <library name="nokogiri (v1.8.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.0/patches" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.0/tasks" />
@@ -1728,6 +1731,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.0/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.0/patches" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.0/tasks" />
@@ -2048,6 +2052,7 @@
     </library>
     <library name="puma (v3.9.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.9.1/tools" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.9.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.9.1/gemfiles" />
@@ -2056,6 +2061,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.9.1/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.9.1/tools" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.9.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/puma-3.9.1/gemfiles" />
