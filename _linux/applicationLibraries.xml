@@ -484,6 +484,16 @@
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-9.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v9.4.4, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-9.4.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-9.4.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-9.4.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/autoprefixer-rails-9.4.4/vendor" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
@@ -1716,6 +1726,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.0/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="nested_form (v0.3.2, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nested_form-0.3.2/vendor" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nested_form-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nested_form-0.3.2/vendor" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nested_form-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="nested_form_fields (v0.8.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nested_form_fields-0.8.2/lib" />
@@ -2292,6 +2312,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-5.2.2" />
+      </SOURCES>
+    </library>
+    <library name="rails-assets-datatables (v1.10.19, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-datatables-1.10.19/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-datatables-1.10.19/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-datatables-1.10.19/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-datatables-1.10.19/app" />
+      </SOURCES>
+    </library>
+    <library name="rails-assets-jquery (v3.3.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-jquery-3.3.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-jquery-3.3.1/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-jquery-3.3.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/rails-assets-jquery-3.3.1/app" />
       </SOURCES>
     </library>
     <library name="rails-dom-testing (v2.0.1, ruby-2.4.1-p111) [gem]">
