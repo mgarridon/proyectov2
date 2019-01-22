@@ -1742,12 +1742,14 @@
     </library>
     <library name="msgpack (v1.2.6, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.6" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/msgpack-1.2.6/doclib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/msgpack-1.2.6/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/msgpack-1.2.6/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/msgpack-1.2.6/bench" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.6" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/msgpack-1.2.6/doclib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/msgpack-1.2.6/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/msgpack-1.2.6/lib" />
@@ -1876,12 +1878,14 @@
     </library>
     <library name="nokogiri (v1.10.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.1/bin" />
@@ -2074,10 +2078,12 @@
     </library>
     <library name="pg (v1.1.4, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.4" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pg-1.1.4/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pg-1.1.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.4" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pg-1.1.4/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.5.0/gems/pg-1.1.4/lib" />
       </SOURCES>
